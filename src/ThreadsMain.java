@@ -1,5 +1,3 @@
-import java.io.File;
-import java.util.Random;
 
 public class ThreadsMain {
     public static void main(String args[]) {
